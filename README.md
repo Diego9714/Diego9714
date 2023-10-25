@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Cabrera</h1>
-<h3 align="center">A passionate frontend and backend developer from Venezuela</h3>
+<h3 align="center">A passionate Fullstack developer from Venezuela</h3>
 
 - 🌱 I’m currently learning **react, relational database management and python.**
 
